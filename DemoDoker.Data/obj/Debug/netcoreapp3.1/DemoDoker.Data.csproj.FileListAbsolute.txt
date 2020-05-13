@@ -1,0 +1,5 @@
+C:\Users\dgm\source\repos\TestDocker\DemoDoker.Data\bin\Debug\netcoreapp3.1\DemoDoker.Data.deps.json
+C:\Users\dgm\source\repos\TestDocker\DemoDoker.Data\bin\Debug\netcoreapp3.1\DemoDoker.Data.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDoker.Data\obj\Debug\netcoreapp3.1\DemoDoker.Data.csprojAssemblyReference.cache
+C:\Users\dgm\source\repos\TestDocker\DemoDoker.Data\obj\Debug\netcoreapp3.1\DemoDoker.Data.AssemblyInfoInputs.cache
+C:\Users\dgm\source\repos\TestDocker\DemoDoker.Data\obj\Debug\netcoreapp3.1\DemoDoker.Data.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Domain\bin\Debug\netcoreapp3.1\DemoDocker.Domain.deps.json
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Domain\bin\Debug\netcoreapp3.1\DemoDocker.Domain.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Domain\bin\Debug\netcoreapp3.1\DemoDocker.Domain.pdb
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Domain\obj\Debug\netcoreapp3.1\DemoDocker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Domain\obj\Debug\netcoreapp3.1\DemoDocker.Domain.AssemblyInfoInputs.cache
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Domain\obj\Debug\netcoreapp3.1\DemoDocker.Domain.AssemblyInfo.cs
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Domain\obj\Debug\netcoreapp3.1\DemoDocker.Domain.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Domain\obj\Debug\netcoreapp3.1\DemoDocker.Domain.pdb
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Domain\obj\Debug\netcoreapp3.1\DemoDocker.Domain.csprojAssemblyReference.cache

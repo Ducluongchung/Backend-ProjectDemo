@@ -1,0 +1,14 @@
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\bin\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.deps.json
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\bin\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\bin\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.pdb
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\bin\Debug\netcoreapp3.1\DemoDocker.Domain.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\bin\Debug\netcoreapp3.1\DemoDocker.Shared.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\bin\Debug\netcoreapp3.1\DemoDocker.Domain.pdb
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\bin\Debug\netcoreapp3.1\DemoDocker.Shared.pdb
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\obj\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.csprojAssemblyReference.cache
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\obj\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.csproj.CoreCompileInputs.cache
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\obj\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.AssemblyInfoInputs.cache
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\obj\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.AssemblyInfo.cs
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\obj\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.csproj.CopyComplete
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\obj\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Infastructure.EF\obj\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.pdb

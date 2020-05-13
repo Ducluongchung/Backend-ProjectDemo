@@ -1,0 +1,16 @@
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\bin\Debug\netcoreapp3.1\DemoDocker.Service.deps.json
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\bin\Debug\netcoreapp3.1\DemoDocker.Service.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\bin\Debug\netcoreapp3.1\DemoDocker.Service.pdb
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\bin\Debug\netcoreapp3.1\DemoDocker.Domain.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\bin\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\bin\Debug\netcoreapp3.1\DemoDocker.Shared.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\bin\Debug\netcoreapp3.1\DemoDocker.Infastructure.EF.pdb
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\bin\Debug\netcoreapp3.1\DemoDocker.Domain.pdb
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\bin\Debug\netcoreapp3.1\DemoDocker.Shared.pdb
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\obj\Debug\netcoreapp3.1\DemoDocker.Service.csprojAssemblyReference.cache
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\obj\Debug\netcoreapp3.1\DemoDocker.Service.AssemblyInfoInputs.cache
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\obj\Debug\netcoreapp3.1\DemoDocker.Service.AssemblyInfo.cs
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\obj\Debug\netcoreapp3.1\DemoDocker.Service.csproj.CopyComplete
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\obj\Debug\netcoreapp3.1\DemoDocker.Service.dll
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\obj\Debug\netcoreapp3.1\DemoDocker.Service.pdb
+C:\Users\dgm\source\repos\TestDocker\DemoDocker.Service\obj\Debug\netcoreapp3.1\DemoDocker.Service.csproj.CoreCompileInputs.cache

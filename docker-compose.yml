@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  postgresql-data:
+    image: postgres:10
+    environment:
+      POSTGRES_PASSWORD: DigiMed123
+    ports:
+      - 5437:5432
+    volumes:
+      - demo-data:/var/lib/postgresql/data
+  demodocker:
+    image: ${DOCKER_REGISTRY-}demodocker
+    ports:
+      - 5011:80
+    build:
+      context: .
+      dockerfile: DemoDocker/Dockerfile
+
+volumes:
+  demo-data:
+    external: true
