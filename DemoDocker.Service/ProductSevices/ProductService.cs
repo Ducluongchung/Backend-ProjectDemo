@@ -136,7 +136,6 @@ namespace DemoDocker.Services
             {
                 return 0;
             }
-
             // Set data
             product.Name = request.Name;
             product.SeoAlias = request.SeoAlias;
@@ -149,6 +148,11 @@ namespace DemoDocker.Services
         public async Task<ProductViewModel> ProductDetail(int ProductId)
         {
             var product = await _context.Products.FindAsync(ProductId);
+            if (product == null)
+            {
+                return null;
+            }
+
             var productVm = new ProductViewModel()
             {
                 Name = product.Name,
@@ -158,6 +162,7 @@ namespace DemoDocker.Services
                 Id = product.Id,
                 SeoAlias = product.SeoAlias
             };
+
             return productVm;
         }
 
